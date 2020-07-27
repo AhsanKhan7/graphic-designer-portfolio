@@ -1,0 +1,85 @@
+// .headerMobile {
+//     // background: linear-gradient(black , pink);
+//     // color: #f5f4f4;
+//     font-family: Arial, Helvetica, sans-serif;
+//     background-color: black ;
+//     z-index: 100;
+// }
+
+.header-mob {
+    width: 24%;
+    height: 100%;
+    padding-top: 3px;
+    padding-bottom: 110px;
+    position: fixed;
+    background: linear-gradient(black, pink);
+    color: #f5f4f4;
+}
+
+.title-mob {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-left: 40px;
+    text-decoration: none;
+}
+
+.project-mob {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+
+.about-mob {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+    padding-left: 50px;
+    text-decoration: none;
+}
+
+.contact-mob {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+    padding-left: 50px;
+}
+
+.tag-mob {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 290px;
+    padding-left: 40px;
+}
+
+
+
+.mobilePage {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    padding-top: 100px;
+    margin-left: 217px;
+    padding-left: 100px;
+    padding-right: 20px;
+    padding-bottom: 1590px;
+    width: 75%;
+    height: 100%;
+    background: #f5f4f4;
+    background-size: cover;
+    font-size: 13px;
+    font-family: 'Arvo', monospace;
+}
+
+.pic1 {
+    margin-bottom: 20px;
+}
+
+.pic2 {
+    margin-bottom: 20px;
+}
+
+.pic3 {
+    margin-bottom: 20px;
+}
+
+.pic4 {
+    margin-bottom: 20px;
+}

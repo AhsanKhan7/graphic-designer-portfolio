@@ -1,0 +1,71 @@
+// .headerEdu {
+//     background: linear-gradient(black , orange);
+//     color: #f5f4f4;
+//     font-family: Arial, Helvetica, sans-serif;
+// }
+
+.header-edu {
+    background: linear-gradient(black , orange);
+    color: #f5f4f4;
+    width: 24%;
+    height: 100%;
+    padding-top: 3px;
+    padding-bottom: 110px;
+    position: fixed;
+}
+
+.title-edu {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-left: 40px;
+    text-decoration: none;
+}
+
+.project-edu {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+
+.about-edu {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+    padding-left: 50px;
+    text-decoration: none;
+}
+
+.contact-edu {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+    padding-left: 50px;
+}
+
+.tag-edu {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 290px;
+    padding-left: 40px;
+}
+
+
+
+.eduPage {
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    padding-top: 100px;
+    margin-left: 217px;
+    padding-left: 100px;
+    padding-right: 20px;
+    padding-bottom: 600px;
+    width: 75%;
+    height: 100%;
+    background: #f5f4f4;
+    background-size: cover;
+    font-size: 13px;
+    font-family: 'Arvo', monospace;
+}
+
+.pic1 {
+    padding-bottom: 20px;
+}
